@@ -1,0 +1,4 @@
+Chicken Momo 100 2 200
+Coke 100 3 300
+Apple 300 2 600
+Banana 200 3 600
